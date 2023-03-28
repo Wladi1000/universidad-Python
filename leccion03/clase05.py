@@ -8,6 +8,8 @@ print('Concatenacion:', resultadoSTR);
 print('Suma:', resultado);
 
 # ----------------------------
+# Leer un entero
+# Error si se lee una cadena
 numero1 = int(input('Escribe el primer numero: '));
 numero2 = int(input('Escribe el segundo numero: '));
 resultado = numero1 + numero2;
