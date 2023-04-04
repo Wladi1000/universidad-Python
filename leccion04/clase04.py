@@ -1,4 +1,4 @@
-# Operadores Logicos
+# Operadores de Comparacion
 a = 4;
 b = 2;
 
