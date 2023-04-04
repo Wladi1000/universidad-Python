@@ -9,4 +9,4 @@ if ( rangoIzquierda <= numero <= rangoDerecha  ):
 else:
   print('Su numero esta fuera del rango');
 
-print('Fin de programa');
+print('Fin de programa...');

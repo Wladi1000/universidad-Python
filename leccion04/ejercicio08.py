@@ -12,4 +12,4 @@ elif ( nro1 < nro2 ):
 else:
   print(f'El numero {nro1} y el numero {nro2} son iguales');
 
-print('Fin de programa');
+print('Fin de programa...');

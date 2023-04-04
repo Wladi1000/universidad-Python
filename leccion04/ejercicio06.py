@@ -9,4 +9,4 @@ if not( vacaciones or diaDescanso ):
 else:
   print('Puede asistir al juego');
 
-print('Fin de programa');
+print('Fin de programa...');

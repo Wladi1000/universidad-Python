@@ -9,4 +9,4 @@ elif ( treintas ):
 else:
   print("Usted no pertenece a los rangos de 20's y 30's");
 
-print('Fin de programa');
+print('Fin de programa...');
