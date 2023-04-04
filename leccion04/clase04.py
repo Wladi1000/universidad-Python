@@ -17,3 +17,7 @@ print( f'resultado < : {resultado}');
 # Diferente de...
 resultado = a != b;
 print( f'resultado != : {resultado}');
+
+# Otros operadores:
+# >=
+# <=
