@@ -1,6 +1,6 @@
-cadena = 'Hola'
+cadena = 'Hola';
 
 for letra in cadena:
-    print(letra)
+  print(letra);
 else:
-    print('Fin ciclo for')
+  print('Fin ciclo for');
