@@ -3,7 +3,7 @@
 # while condicion:
 #     print('Ejecutando ciclo while')
 # else:
-#     print('Fin del ciclo while')
+#     print('Fin del ciclo while') ss
 
 contador = 0;
 
